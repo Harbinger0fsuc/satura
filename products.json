@@ -1,0 +1,164 @@
+[
+    {
+        "image": "https://i.ibb.co/VB2w0x3/pic-product-01.png",
+        "imageBig": "https://i.ibb.co/VB2w0x3/pic-product-01.png",
+        "title": "ШАМПУНЬ SATURA SHEER natural",
+        "description": "Шампунь відновлює пошкоджену структуру волосся за рахунок особливого зволоження. Вітаміни і мікроелементи, що входять до складу, живлять волосяні фолікули, сприяючи зростанню сильного, здорового волосся.",
+        "characteristics": [
+            {
+                "title": "Опис",
+                "content": "content characteristics 111"
+            },
+            {
+                "title": "Показання та механізм діЇ",
+                "content": "content characteristics 111"
+            },
+            {
+                "title": "Активні інгредієнти",
+                "content": "content characteristics 111"
+            },
+            {
+                "title": "Застосування",
+                "content": "content characteristics 111"
+            }
+        ],
+        "imageDemo": "https://i.ibb.co/VB2w0x3/pic-product-01.png",
+        "videoDemo": "<iframe src='https://player.vimeo.com/video/797069627?h=b90a2952de&portrait=0' width='640' height='360' frameborder='0' allow='autoplay; fullscreen; picture-in-picture' allowfullscreen></iframe>",
+        "category": "hair"
+    },
+    {
+        "image": "https://i.ibb.co/dGGtnLM/pic-product-02.png",
+        "imageBig": "https://i.ibb.co/dGGtnLM/pic-product-02.png",
+        "title": "лосьйон SATURA PRO",
+        "description": "Шампунь відновлює пошкоджену структуру волосся за рахунок особливого зволоження. Вітаміни і мікроелементи, що входять до складу, живлять волосяні фолікули, сприяючи зростанню сильного, здорового волосся.",
+        "characteristics": [
+            {
+                "title": "Опис",
+                "content": "content characteristics 222"
+            },
+            {
+                "title": "Показання та механізм діЇ",
+                "content": "content characteristics 222"
+            },
+            {
+                "title": "Активні інгредієнти",
+                "content": "content characteristics 222"
+            },
+            {
+                "title": "Застосування",
+                "content": "content characteristics 222"
+            }
+        ],
+        "imageDemo": "https://i.ibb.co/dGGtnLM/pic-product-02.png",
+        "videoDemo": "<iframe src='https://player.vimeo.com/video/797069627?h=b90a2952de&portrait=0' width='640' height='360' frameborder='0' allow='autoplay; fullscreen; picture-in-picture' allowfullscreen></iframe>",
+        "category": "hair"
+    },
+    {
+        "image": "https://i.ibb.co/JHMJn5B/pic-product-03.png",
+        "imageBig": "https://i.ibb.co/JHMJn5B/pic-product-03.png",
+        "title": "бальзам SATURA ROSTA",
+        "description": "Шампунь відновлює пошкоджену структуру волосся за рахунок особливого зволоження. Вітаміни і мікроелементи, що входять до складу, живлять волосяні фолікули, сприяючи зростанню сильного, здорового волосся.",
+        "characteristics": [
+            {
+                "title": "Опис",
+                "content": "content characteristics 333"
+            },
+            {
+                "title": "Показання та механізм діЇ",
+                "content": "content characteristics 333"
+            },
+            {
+                "title": "Активні інгредієнти",
+                "content": "content characteristics 333"
+            },
+            {
+                "title": "Застосування",
+                "content": "content characteristics 333"
+            }
+        ],
+        "imageDemo": "https://i.ibb.co/JHMJn5B/pic-product-03.png",
+        "videoDemo": "<iframe src='https://player.vimeo.com/video/797069627?h=b90a2952de&portrait=0' width='640' height='360' frameborder='0' allow='autoplay; fullscreen; picture-in-picture' allowfullscreen></iframe>",
+        "category": "hair"
+    },
+    {
+        "image": "https://i.ibb.co/SBCWSC0/pic-product-04.png",
+        "imageBig": "https://i.ibb.co/SBCWSC0/pic-product-04.png",
+        "title": "SATURA PROFESSIONAL COMPLEX",
+        "description": "Шампунь відновлює пошкоджену структуру волосся за рахунок особливого зволоження. Вітаміни і мікроелементи, що входять до складу, живлять волосяні фолікули, сприяючи зростанню сильного, здорового волосся.",
+        "characteristics": [
+            {
+                "title": "Опис",
+                "content": "content characteristics 444"
+            },
+            {
+                "title": "Показання та механізм діЇ",
+                "content": "content characteristics 444"
+            },
+            {
+                "title": "Активні інгредієнти",
+                "content": "content characteristics 444"
+            },
+            {
+                "title": "Застосування",
+                "content": "content characteristics 444"
+            }
+        ],
+        "imageDemo": "https://i.ibb.co/SBCWSC0/pic-product-04.png",
+        "videoDemo": "<iframe src='https://player.vimeo.com/video/797069627?h=b90a2952de&portrait=0' width='640' height='360' frameborder='0' allow='autoplay; fullscreen; picture-in-picture' allowfullscreen></iframe>",
+        "category": "hair"
+    },
+    {
+        "image": "https://i.ibb.co/3mt7smz/pic-product-05.png",
+        "imageBig": "https://i.ibb.co/3mt7smz/pic-product-05.png",
+        "title": "ЛОСЬЙОН EOS RUBY",
+        "description": "Шампунь відновлює пошкоджену структуру волосся за рахунок особливого зволоження. Вітаміни і мікроелементи, що входять до складу, живлять волосяні фолікули, сприяючи зростанню сильного, здорового волосся.",
+        "characteristics": [
+            {
+                "title": "Опис",
+                "content": "content characteristics 555"
+            },
+            {
+                "title": "Показання та механізм діЇ",
+                "content": "content characteristics 555"
+            },
+            {
+                "title": "Активні інгредієнти",
+                "content": "content characteristics 555"
+            },
+            {
+                "title": "Застосування",
+                "content": "content characteristics 555"
+            }
+        ],
+        "imageDemo": "https://i.ibb.co/3mt7smz/pic-product-05.png",
+        "videoDemo": "<iframe src='https://player.vimeo.com/video/797069627?h=b90a2952de&portrait=0' width='640' height='360' frameborder='0' allow='autoplay; fullscreen; picture-in-picture' allowfullscreen></iframe>",
+        "category": "skin"
+    },
+    {
+        "image": "https://i.ibb.co/2PLHxV5/pic-product-06.png",
+        "imageBig": "https://i.ibb.co/2PLHxV5/pic-product-06.png",
+        "title": "ЛОСЬЙОН EOS GOLD",
+        "description": "Шампунь відновлює пошкоджену структуру волосся за рахунок особливого зволоження. Вітаміни і мікроелементи, що входять до складу, живлять волосяні фолікули, сприяючи зростанню сильного, здорового волосся.",
+        "characteristics": [
+            {
+                "title": "Опис",
+                "content": "content characteristics 666"
+            },
+            {
+                "title": "Показання та механізм діЇ",
+                "content": "content characteristics 666"
+            },
+            {
+                "title": "Активні інгредієнти",
+                "content": "content characteristics 666"
+            },
+            {
+                "title": "Застосування",
+                "content": "content characteristics 666"
+            }
+        ],
+        "imageDemo": "https://i.ibb.co/2PLHxV5/pic-product-06.png",
+        "videoDemo": "<iframe src='https://player.vimeo.com/video/797069627?h=b90a2952de&portrait=0' width='640' height='360' frameborder='0' allow='autoplay; fullscreen; picture-in-picture' allowfullscreen></iframe>",
+        "category": "skin"
+    }
+]
